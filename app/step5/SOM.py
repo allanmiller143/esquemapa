@@ -843,7 +843,7 @@ def main():
     with open(OUTPUT_DIR / "som_outliers.json", "w", encoding="utf-8") as f:
         json.dump(outliers, f, indent=2, ensure_ascii=False)
 
-    # VISUALIZAÇÃO - U-MATRIX COLMEIA PERFEITA COM ANOTAÇÕES
+    # VISUALIZAÇÃO - U-MATRIX COLMEIA COM ANOTAÇÕES
     print("\n Gerando visualização em formato de colmeia com anotações...")
     umatrix = compute_umatrix_hexagonal(som)
 
