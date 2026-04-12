@@ -1,4 +1,4 @@
-# EsqueMapa: Pipeline de Análise de Metadados de Banco de Dados com LLMs e SOM
+# EsqueMapa: Exploração Temática e Topológica de Esquemas de Bancos de Dados Relacionais
 
 Este projeto implementa um pipeline para explorar e visualizar o conteúdo de um banco de dados PostgreSQL, utilizando Modelos de Linguagem de Grande Escala (LLMs) para identificar tópicos em tabelas e Mapas Auto-Organizáveis (SOM) para agrupar e visualizar esses temas.
 
