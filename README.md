@@ -2,6 +2,8 @@
 
 Este projeto implementa um pipeline para explorar e visualizar o conteúdo de um banco de dados PostgreSQL, utilizando Modelos de Linguagem de Grande Escala (LLMs) para identificar tópicos em tabelas e Mapas Auto-Organizáveis (SOM) para agrupar e visualizar esses temas.
 
+![Screenshot do sistema](EsqueMapa_screenshot.png)
+
 ## Visão Geral do Pipeline
 
 O sistema é dividido em cinco etapas principais, orquestradas por uma interface Streamlit:
