@@ -1,41 +1,41 @@
-﻿Tema,QE,Neuron,Freq
-soros,1.003,15_1,2
-polo base,0.9904,15_0,2
-ine,0.9792,7_12,2
-ator,0.9789,17_0,1
-cinema,0.9788,7_12,1
-cor,0.9697,7_12,1
-uso api,0.967,7_12,1
-pre-natal,0.9451,12_5,4
-periodontia,0.939,14_3,1
-obitos,0.9336,14_2,2
-soros e diluentes,0.9156,6_11,1
-arcada,0.9141,15_1,1
-diabetes mellitus,0.914,7_12,1
-dengue,0.9135,7_12,1
-cep,0.9078,7_12,1
-temporal processos,0.9063,4_3,1
-status problema,0.906,7_11,3
-reforma agraria,0.9047,15_1,1
-lesoes,0.8962,6_11,2
-ator papel,0.8931,15_2,2
-diabetes,0.8931,7_12,6
-autonomia,0.8917,15_2,1
-covid-19,0.8899,7_12,2
-cbo 2002,0.8887,8_12,2
-censo,0.887,16_1,2
-parto,0.8863,15_1,2
-linguistica,0.8852,15_1,1
-endereco,0.8844,7_1,1
-agronegocio,0.8838,15_1,1
-energia solar,0.8826,15_1,3
-economia,0.8816,16_15,1
-tipos de paredes,0.877,15_1,1
-salario minimo,0.8763,14_0,1
-cbo,0.876,7_12,1
-sexo,0.8749,15_1,1
-beneficiarios bolsa familia,0.8746,15_1,2
-anatomia,0.8739,14_2,1
-tipos de materiais de parede,0.8736,3_11,2
-tipos de agua,0.8733,14_0,1
-tipos de pavimento,0.8685,15_0,1
+Ranking,Tema,Quantization Error,Frequência,Neurônio
+1,soros,1.002961,2,15_1
+2,polo base,0.990391,2,15_0
+3,ine,0.979205,2,7_12
+4,ator,0.978899,1,17_0
+5,cinema,0.978807,1,7_12
+6,cor,0.969699,1,7_12
+7,uso api,0.966974,1,7_12
+8,pre-natal,0.94512,4,12_5
+9,periodontia,0.938979,1,14_3
+10,obitos,0.933612,2,14_2
+11,soros e diluentes,0.91562,1,6_11
+12,arcada,0.91412,1,15_1
+13,diabetes mellitus,0.914019,1,7_12
+14,dengue,0.913455,1,7_12
+15,cep,0.907827,1,7_12
+16,temporal processos,0.906268,1,4_3
+17,status problema,0.906042,3,7_11
+18,reforma agraria,0.904722,1,15_1
+19,lesoes,0.896201,2,6_11
+20,ator papel,0.893138,2,15_2
+21,diabetes,0.893067,6,7_12
+22,autonomia,0.891671,1,15_2
+23,covid-19,0.889933,2,7_12
+24,cbo 2002,0.888662,2,8_12
+25,censo,0.887011,2,16_1
+26,parto,0.886331,2,15_1
+27,linguistica,0.885157,1,15_1
+28,endereco,0.88435,1,7_1
+29,agronegocio,0.883794,1,15_1
+30,energia solar,0.88263,3,15_1
+31,economia,0.881615,1,16_15
+32,tipos de paredes,0.876972,1,15_1
+33,salario minimo,0.876275,1,14_0
+34,cbo,0.876042,1,7_12
+35,sexo,0.874935,1,15_1
+36,beneficiarios bolsa familia,0.874609,2,15_1
+37,anatomia,0.873875,1,14_2
+38,tipos de materiais de parede,0.873594,2,3_11
+39,tipos de agua,0.873251,1,14_0
+40,tipos de pavimento,0.868544,1,15_0
